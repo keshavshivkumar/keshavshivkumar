@@ -7,8 +7,6 @@ I am a student majoring in Computer Science Engineering.
 
 I aspire to have at least an average understanding in a variety of concepts and finding stuff I genuinely enjoy.
 
-![counter](https://https://en5ibiur3632p8e.m.pipedream.net)
-
-![Visitor Count](https://profile-counter.glitch.me/keshavshivkumar/count.svg)
+![counter](https://en5ibiur3632p8e.m.pipedream.net)
 
 ##### Every view boosts my self esteem (probably). 
