@@ -5,7 +5,7 @@
 -->
 I am a student majoring in Computer Science Engineering.
 
-I aspire to have at least an average understanding in a variety of concepts and finding stuff I genuinely enjoy.
+I aspire to have a good understanding of a variety of concepts, and finding stuff I genuinely enjoy.
 
 While you're here, check out [my first individual project, done from scratch](https://github.com/keshavshivkumar/spotifygenreclassifier)
 
